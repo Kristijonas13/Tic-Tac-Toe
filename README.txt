@@ -1,10 +1,7 @@
-Name:main.cpp
+Name:README.txt
 Owner:Kristijonas Bileisis
 Last Date Modified: 11/07/2019
-Description: A basic Tic-Tac-Toe game consisting of two players. The players enter their names, play
-Tic-Tac-Toe, and then they can continue playing or exit the game if their is a tie or somebody wins
-the game. 
-
+Description: README file describing how the game is played and how to win or tie. 
 How To Play:
   First enter a name for Players 1 and 2.
   Coordinates are entered in the following fashion, "#,#'.

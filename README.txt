@@ -34,7 +34,7 @@ How to Win:
   o|x|o 
      
 
-  A win by dianolly:
+  A win by diagnolly:
   o|x|x
   -----
   o|o|x

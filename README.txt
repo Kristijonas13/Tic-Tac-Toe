@@ -9,7 +9,7 @@ How To Play:
   First enter a name for Players 1 and 2.
   Coordinates are entered in the following fashion, "#,#'.
   "#" is an integer of 1,2 or 3.
-  The first "#" is the row. The second "#". 
+  The first "#" is the row. The second "#" is the column. For example, "1,1". 
   Insert a "," between the two integers in order for it to be a valid format. 
   Players take turns entering 'x' and 'o' in empty spaces until a player wins
   or there are no more available spaces. You cannot put a 'x' or 'o' in a space that

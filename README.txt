@@ -1,6 +1,7 @@
 Name:README.txt
 Owner:Kristijonas Bileisis
-Last Date Modified: 11/07/2019
+Date Created: 11/01/2019
+Last Date Modified: 4/15/2021
 Description: README file describing how the game is played and how to win or tie. 
 How To Play:
   First enter a name for Players 1 and 2.
@@ -34,7 +35,7 @@ How to Win:
   o|x|o 
      
 
-  A win by diagnolly:
+  A win by diagonally:
   o|x|x
   -----
   o|o|x
